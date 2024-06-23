@@ -56,6 +56,7 @@
 <a href="https://instagram.com/soorajpk_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram-profile" height="30" width="40" /></a>
 <a href="https://discord.gg/2hTgG26PEg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord-server" height="30" width="40" /></a>
 <a href="https://youtube.com/@codenamepk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube-channel" height="30" width="40" /></a>
+  <a href="https://github.com/pksooraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="youtube-channel" height="30" width="40" /></a>
 </p>
 
 <!--
@@ -74,3 +75,7 @@
 <!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en" alt="your-username" /></p>
 
 -->
+
+## Support Me
+
+<a href="https://www.buymeacoffee.com/soorajpk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" /></a>
