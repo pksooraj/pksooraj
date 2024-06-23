@@ -75,6 +75,14 @@
 <!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en" alt="your-username" /></p>
 
 -->
+## GitHub Stats
+![Sooraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pksooraj&show_icons=true&theme=radical)
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pksooraj&layout=compact&theme=radical)
+
+## Current Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pksooraj&theme=radical)
 
 ## Support Me
 
