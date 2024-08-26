@@ -50,7 +50,8 @@
 &nbsp;&nbsp;
 <img src="https://www.eccouncil.org/wp-content/uploads/2023/01/logo-small-size-18.png" alt="E|HE" width="100"/>
 &nbsp;&nbsp;
-<img src="https://www.eccouncil.org/wp-content/uploads/2023/01/logo-small-size-15.png" alt="D|FE" width="100"/>
+   <!--
+<img src="https://www.eccouncil.org/wp-content/uploads/2023/01/logo-small-size-12.png" alt="C|SA" width="100"/>
 &nbsp;&nbsp;
 <img src="https://www.eccouncil.org/wp-content/uploads/2023/02/NDE-logo-dark.png" alt="N|DE" width="100"/>
   
