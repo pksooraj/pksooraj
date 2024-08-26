@@ -25,6 +25,8 @@
 <a href="https://www.metasploit.com/" target="_blank"> <img src="https://www.metasploit.com/includes/images/metasploit-r7-logo.svg" alt="nmap" width="40" height="40"/></a>
 <a href="https://portswigger.net/burp" target="_blank"> <img src="https://portswigger.net/images/burp-suite-small.svg" alt="nmap" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
+<a href="https://www.splunk.com/en_us/products/splunk-enterprise.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="Splunk" width="40" height="40"/></a>
+
 </p>
 <h3 align="left">Languages:</h3>
 <p align="left"> 
