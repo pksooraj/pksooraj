@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sooraj PK</h1> 
 <h3 align="center">Cybersecurity Researcher & SOC Analyst</h3>
-![1712993692723](https://github.com/user-attachments/assets/b6289e26-900c-4092-af82-48f34e5c45c2)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pksooraj&label=Profile%20views&color=0e75b6&style=flat" alt="pksooraj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pksooraj&label=Profile%20views&color=0e75b6&style=flat" alt="pksooraj" /> </p> 
+[1712993692723](https://github.com/user-attachments/assets/b6289e26-900c-4092-af82-48f34e5c45c2)
 
 - 🔍 Currently seeking an **Entry-Level Role** as a **Cybersecurity Researcher** or **SOC Analyst**
 - 🎓 Recently completed **Certified SOC Analyst (CSA)** and **Certified IT Infrastructure & Cyber SOC Analyst (CICSA)**
