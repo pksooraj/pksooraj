@@ -8,6 +8,7 @@
 - 💡 Proficient in **Security Monitoring, IT Operations,Vulnerability Assessment and Incident Response**
 - 🔗 Explore my **LinkedIn** for more insights: [LinkedIn Profile](https://www.linkedin.com/in/soorajpk)
 - 📝 My cybersecurity articles on [Medium](http://medium.com/@soorajpk)
+- 📜 Certifications [Drive](http://drive.com)
 - 📫 Reach me via <a href="mailto:sooraj2002pk@gmail.com">Email</a>
 
 <h3 align="left">Core Tools & Technologies:</h3>
